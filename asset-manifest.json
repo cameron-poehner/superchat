@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cameron-poehner/superchat.git/static/css/main.1fcdff1c.chunk.css",
+    "main.js": "/cameron-poehner/superchat.git/static/js/main.2eb5ad72.chunk.js",
+    "main.js.map": "/cameron-poehner/superchat.git/static/js/main.2eb5ad72.chunk.js.map",
+    "runtime-main.js": "/cameron-poehner/superchat.git/static/js/runtime-main.5db74e28.js",
+    "runtime-main.js.map": "/cameron-poehner/superchat.git/static/js/runtime-main.5db74e28.js.map",
+    "static/js/2.2574f703.chunk.js": "/cameron-poehner/superchat.git/static/js/2.2574f703.chunk.js",
+    "static/js/2.2574f703.chunk.js.map": "/cameron-poehner/superchat.git/static/js/2.2574f703.chunk.js.map",
+    "static/js/3.30b46bdc.chunk.js": "/cameron-poehner/superchat.git/static/js/3.30b46bdc.chunk.js",
+    "static/js/3.30b46bdc.chunk.js.map": "/cameron-poehner/superchat.git/static/js/3.30b46bdc.chunk.js.map",
+    "index.html": "/cameron-poehner/superchat.git/index.html",
+    "static/css/main.1fcdff1c.chunk.css.map": "/cameron-poehner/superchat.git/static/css/main.1fcdff1c.chunk.css.map",
+    "static/js/2.2574f703.chunk.js.LICENSE.txt": "/cameron-poehner/superchat.git/static/js/2.2574f703.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5db74e28.js",
+    "static/js/2.2574f703.chunk.js",
+    "static/css/main.1fcdff1c.chunk.css",
+    "static/js/main.2eb5ad72.chunk.js"
+  ]
+}
