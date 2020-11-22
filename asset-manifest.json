@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/cameron-poehner/superchat/static/css/main.1fcdff1c.chunk.css",
-    "main.js": "/cameron-poehner/superchat/static/js/main.2eb5ad72.chunk.js",
-    "main.js.map": "/cameron-poehner/superchat/static/js/main.2eb5ad72.chunk.js.map",
-    "runtime-main.js": "/cameron-poehner/superchat/static/js/runtime-main.2600e095.js",
-    "runtime-main.js.map": "/cameron-poehner/superchat/static/js/runtime-main.2600e095.js.map",
-    "static/js/2.edb90c68.chunk.js": "/cameron-poehner/superchat/static/js/2.edb90c68.chunk.js",
-    "static/js/2.edb90c68.chunk.js.map": "/cameron-poehner/superchat/static/js/2.edb90c68.chunk.js.map",
-    "static/js/3.30b46bdc.chunk.js": "/cameron-poehner/superchat/static/js/3.30b46bdc.chunk.js",
-    "static/js/3.30b46bdc.chunk.js.map": "/cameron-poehner/superchat/static/js/3.30b46bdc.chunk.js.map",
-    "index.html": "/cameron-poehner/superchat/index.html",
-    "static/css/main.1fcdff1c.chunk.css.map": "/cameron-poehner/superchat/static/css/main.1fcdff1c.chunk.css.map",
-    "static/js/2.edb90c68.chunk.js.LICENSE.txt": "/cameron-poehner/superchat/static/js/2.edb90c68.chunk.js.LICENSE.txt"
+    "main.css": "/superchat/static/css/main.1fcdff1c.chunk.css",
+    "main.js": "/superchat/static/js/main.2eb5ad72.chunk.js",
+    "main.js.map": "/superchat/static/js/main.2eb5ad72.chunk.js.map",
+    "runtime-main.js": "/superchat/static/js/runtime-main.17b05b50.js",
+    "runtime-main.js.map": "/superchat/static/js/runtime-main.17b05b50.js.map",
+    "static/js/2.47d27765.chunk.js": "/superchat/static/js/2.47d27765.chunk.js",
+    "static/js/2.47d27765.chunk.js.map": "/superchat/static/js/2.47d27765.chunk.js.map",
+    "static/js/3.30b46bdc.chunk.js": "/superchat/static/js/3.30b46bdc.chunk.js",
+    "static/js/3.30b46bdc.chunk.js.map": "/superchat/static/js/3.30b46bdc.chunk.js.map",
+    "index.html": "/superchat/index.html",
+    "static/css/main.1fcdff1c.chunk.css.map": "/superchat/static/css/main.1fcdff1c.chunk.css.map",
+    "static/js/2.47d27765.chunk.js.LICENSE.txt": "/superchat/static/js/2.47d27765.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2600e095.js",
-    "static/js/2.edb90c68.chunk.js",
+    "static/js/runtime-main.17b05b50.js",
+    "static/js/2.47d27765.chunk.js",
     "static/css/main.1fcdff1c.chunk.css",
     "static/js/main.2eb5ad72.chunk.js"
   ]
